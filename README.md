@@ -8,7 +8,6 @@
 </p>
 
 <br />
-![](https://komarev.com/ghpvc/?username=sapnauroojiqbal&color=brightgreen&label=Profile+Views)
 
 ### Connect with me:
 
