@@ -15,7 +15,7 @@
   <img align="left" alt="Sapna Urooj Iqbal's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
-![](https://komarev.com/ghpvc/?username=sapnauroojiqbal&color=brightgreen&style=plastic&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=sapnauroojiqbal&color=brightgreen&label=Profile+Views)
 
 <br />
 
