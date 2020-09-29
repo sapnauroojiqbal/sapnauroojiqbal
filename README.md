@@ -3,6 +3,13 @@
 
 ### Hi there! I'm [SAPNA UROOJ IQBAL!](https://sapnauroojiqbal.github.io/) here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving">
 
+<p align="left">
+  <br><img src="https://badges.pufler.dev/visits/sapnauroojiqbal/sapnauroojiqbal/"><img src="https://badges.pufler.dev/years/sapnauroojiqbal/">
+</p>
+
+<br />
+![](https://komarev.com/ghpvc/?username=sapnauroojiqbal&color=brightgreen&label=Profile+Views)
+
 ### Connect with me:
 
 <a href="https://twitter.com/SapnaUroojIqbal">
@@ -15,12 +22,6 @@
   <img align="left" alt="Sapna Urooj Iqbal's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
-
-<br />
-
-<p align="left">
-  <br><img src="https://badges.pufler.dev/visits/sapnauroojiqbal/sapnauroojiqbal/"><img src="https://badges.pufler.dev/years/sapnauroojiqbal/">
-</p>
 
 <br />
 
