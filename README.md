@@ -17,7 +17,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 
 <br />
-![](https://komarev.com/ghpvc/?username=sapnauroojiqbal&color=brightgreen&label=Profile+Views)
+
 <p align="left">
   <br><img src="https://badges.pufler.dev/visits/sapnauroojiqbal/sapnauroojiqbal/"><img src="https://badges.pufler.dev/years/sapnauroojiqbal/">
 </p>
@@ -44,7 +44,7 @@ I am a Computer Science student at UET.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://simpleicons.org/icons/csharp.svg"></code>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnauroojiqbal=&theme=shades-of-purple&hide_langs_below=1&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnauroojiqbal&theme=shades-of-purple&hide_langs_below=1&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=sapnauroojiqbal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sapna's GitHub Stats">
 </p>
 
