@@ -46,7 +46,7 @@ I am a Computer Science student at UET.
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnauroojiqbal&theme=shades-of-purple&hide_langs_below=1&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=sapnauroojiqbal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sapna's GitHub Stats">
-  ![](https://komarev.com/ghpvc/?username=sapnauroojiqbal&color=brightgreen&style=plastic&label=PROFILE+VIEWS)
+
 </p>
 
 <br />
