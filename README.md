@@ -31,7 +31,7 @@ I am a Computer Science student at UET.
 - 🔭 Learning FLutter along side Cloud Technology and Webdevelopement
 - 👯 I’m looking to collaborate in open source projects✌
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to play healthy games and 🤩 to sleep. 🤣
+- ⚡ Fun fact: I love to play healthy games and 🤩 to sleep. 😂😜
 
 **Languages and Tools:** &nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -51,4 +51,4 @@ I am a Computer Science student at UET.
 
 <br />
 
-## I ❤️ nature and traveling 🤩 and sleeping also. 🤣
+## I ❤️ nature and traveling 🤩 and sleeping also. 😂😜
