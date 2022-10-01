@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://octodex.github.com/images/welcometocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/femalecodertocat.png" height="160px" width="160px">
 
 
-### Hi there! I'm [SAPNA UROOJ IQBAL!](https://sapnauroojiqbal.github.io/) here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving">
+### Hi there! I'm SAPNA UROOJ IQBAL! here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving">
 
 <br />
 
