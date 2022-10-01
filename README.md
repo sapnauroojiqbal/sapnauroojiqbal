@@ -3,10 +3,6 @@
 
 ### Hi there! I'm [SAPNA UROOJ IQBAL!](https://sapnauroojiqbal.github.io/) here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving">
 
-<p align="left">
-  <br><img src="https://badges.pufler.dev/visits/sapnauroojiqbal/sapnauroojiqbal/"><img src="https://badges.pufler.dev/years/sapnauroojiqbal/">
-</p>
-
 <br />
 
 ### Connect with me:
