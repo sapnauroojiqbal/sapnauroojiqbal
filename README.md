@@ -22,12 +22,12 @@
 
 ### WHO AM I! 🤔 &nbsp;
 
-I am a Computer Science student at UET.
+Software Engineer with 2 years of experience.
 - 🌱 I’m currently learning everything 🤣
-- 🔭 Learning FLutter along side Cloud Technology and Webdevelopement
+- 🔭 Learning MERN along side Docker
 - 👯 I’m looking to collaborate in open source projects✌
-- 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to play healthy games and 🤩 to sleep. 😂😜
+- 🥅 2025 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to play healthy games and 🤩 to sleep. 😂
 
 **Languages and Tools:** &nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
