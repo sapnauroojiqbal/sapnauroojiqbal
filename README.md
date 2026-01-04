@@ -38,7 +38,7 @@ Software Engineer with 2 years of experience.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://simpleicons.org/icons/csharp.svg"></code>
+<code><img height="20" src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png"></code>
 <br />
