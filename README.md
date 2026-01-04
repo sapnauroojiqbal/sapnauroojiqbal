@@ -26,8 +26,8 @@ Software Engineer with 2 years of experience.
 - 🌱 I’m currently learning everything 🤣
 - 🔭 Learning MERN along side Docker
 - 👯 I’m looking to collaborate in open source projects✌
-- 🥅 2025 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to play healthy games and 🤩 to sleep. 😂
+- 🥅 2026 Goals: Make meaningful contributions to open-source projects and experience diverse cultures.
+- ⚡ Fun fact: I enjoy healthy games and 🤩 sleeping. 😂
 
 **Languages and Tools:** &nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -39,6 +39,8 @@ Software Engineer with 2 years of experience.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://simpleicons.org/icons/csharp.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png"></code>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnauroojiqbal&theme=shades-of-purple&hide_langs_below=1&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=sapnauroojiqbal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sapna's GitHub Stats">
@@ -47,4 +49,4 @@ Software Engineer with 2 years of experience.
 
 <br />
 
-## I ❤️ nature and traveling 🤩 and sleeping also. 😂😜
+## I ❤️ nature, painting, art & craft, traveling 🤩… plus, I can never say no to a good nap! 😂😜
